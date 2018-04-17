@@ -4,7 +4,7 @@
 ## Selenium
 ~~有生之年會生出來的~~
 
-## QR Code & Imgur
+## [QR Code & Imgur](https://github.com/kamisakihideyoshi/Python/tree/master/20180322%20-%20QR%20Code%20%26%20Imgur)
 使用 `qrcode` 生成 QR Code，並利用 `imgurpython` 上傳至 Imgur
 
 ---
